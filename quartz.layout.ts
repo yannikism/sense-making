@@ -9,7 +9,6 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "yannikism": "https://yannikism.github.io/",
       "send feedback": "mailto:yannik.m@posteo.de?subject=Feedback&body=I don't understand why ...",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
 }
@@ -29,15 +28,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.Explorer(),
     Component.RecentNotes({
-      title: "recently added",
+      title: "Recently Edited",
       limit: 5,
       //linkToMore: "wiki", // full slug to a page that exists
     }),
   ],
   right: [
-    Component.Graph(),
     Component.TableOfContents(),
     Component.Backlinks(),
+    Component.Graph(),
   ],
 }
 
