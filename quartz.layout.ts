@@ -4,14 +4,7 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [
-    Component.Footer({
-      links: {
-        "yannikism": "https://yannikism.github.io/",
-        "send feedback": "mailto:yannik.m@posteo.de?subject=Feedback&body=I don't understand why ...",
-      },
-    })
-  ],
+  header: [],
   footer: Component.Footer({
     links: {
       "yannikism": "https://yannikism.github.io/",
@@ -26,7 +19,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.TagList(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    //Component.ContentMeta(),
   ],
   left: [
     Component.PageTitle(),
@@ -34,16 +27,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Explorer(),
-    Component.RecentNotes({
-      title: "Recently Edited",
-      limit: 5,
-      //linkToMore: "wiki", // full slug to a page that exists
-    }),
+    //Component.RecentNotes({
+    //  title: "Recently Edited",
+    //  limit: 5,
+    //  linkToMore: "wiki", // full slug to a page that exists
+    //}),
   ],
   right: [
     Component.TableOfContents(),
     Component.Backlinks(),
-    Component.Graph(),
+    //Component.Graph(),
   ],
 }
 
