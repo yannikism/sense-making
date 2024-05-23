@@ -1,0 +1,3 @@
+- you still have to do the learning
+- [[knowledge communication presentation|learning process]] can not be replaced and automatized completely!
+- actual brain can do a lot of stuff and is also an instance, which can filter stuff

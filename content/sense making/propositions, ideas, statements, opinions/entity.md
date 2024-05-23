@@ -1,0 +1,2 @@
+has name
+has attributes

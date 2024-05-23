@@ -37,8 +37,8 @@ top-down wiki links following the "to understand file_title, you must understand
 #topic/mechanical-engineering
 #topic/politics
 
-#types 
-#types/event
+#type 
+#type/event
 
 ---
 
@@ -77,12 +77,6 @@ top-down wiki links following the "to understand file_title, you must understand
 
 <span title="This is the tooltip.">Hover your mouse here</span>
 ```
-
-
-```query
-embed AND search
-```
-
 
 # what to publish
 

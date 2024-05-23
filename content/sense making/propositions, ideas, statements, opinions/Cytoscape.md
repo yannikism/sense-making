@@ -1,0 +1,6 @@
+---
+tags: cogxi
+---
+[What is Cytoscape?](https://cytoscape.org/what_is_cytoscape.html)
+
+***Cytoscape*** is an open source software platform for ***visualizing*** molecular interaction networks and biological pathways and ***integrating*** these networks with annotations, gene expression profiles and other state data. Although Cytoscape was originally designed for biological research, now it is a general platform for complex network analysis and visualization.   Cytoscape *core* distribution provides a basic set of features for data integration, analysis, and visualization.   Additional features are available as ***Apps*** (formerly called *Plugins*).   Apps are available for network and molecular profiling analyses, new layouts, additional file format support, scripting, and connection with databases.   They may be developed by anyone using the Cytoscape open API based on [Java™](http://www.java.com/en/) technology and App community development is encouraged. Most of the Apps are freely available from [Cytoscape App Store](http://apps.cytoscape.org/).
