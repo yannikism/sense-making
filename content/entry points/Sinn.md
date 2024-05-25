@@ -8,3 +8,7 @@ date: 2024-05-23
 draft: false
 publish: true
 ---
+
+
+> [!Question] Question
+> Was ist sinnvoll?
