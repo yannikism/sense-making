@@ -1,1 +1,0 @@
-use recall strategies for summary of topic to test if its understood

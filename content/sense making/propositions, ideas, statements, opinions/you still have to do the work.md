@@ -1,1 +1,0 @@
-so, do [[whatever works]] and choose [[system over tools]]

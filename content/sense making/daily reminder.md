@@ -1,3 +1,0 @@
-- [[system over tools]]
-- [[whatever works]]
-- [[do it in public]]

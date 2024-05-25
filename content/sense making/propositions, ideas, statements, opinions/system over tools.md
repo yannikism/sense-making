@@ -1,1 +1,0 @@
-keep it basic, so that system is not collapsing if surroundings change

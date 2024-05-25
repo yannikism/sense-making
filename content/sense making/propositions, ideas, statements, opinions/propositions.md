@@ -1,5 +1,0 @@
----
-aliases:
-  - evergreen notes
-  - claims
----
