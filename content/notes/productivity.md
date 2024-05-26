@@ -1,10 +1,9 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
+excalidraw-open-md: true
 ---
-
 
 
 # Text Elements

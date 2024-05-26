@@ -23,10 +23,12 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    //Component.MobileOnly(Component.Spacer()),
     Component.Search(),
+    Component.Backlinks(),
+    Component.TableOfContents(),
     Component.Darkmode(),
-    Component.Explorer(),
+    //Component.Explorer(),
     //Component.RecentNotes({
     //  title: "Recently Edited",
     //  limit: 5,
@@ -34,8 +36,7 @@ export const defaultContentPageLayout: PageLayout = {
     //}),
   ],
   right: [
-    Component.Backlinks(),
-    Component.TableOfContents(),
+    
     //Component.Graph(),
   ],
 }

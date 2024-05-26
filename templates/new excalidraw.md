@@ -1,5 +1,6 @@
 ---
 excalidraw-plugin: parsed
+excalidraw-open-md: true
 title: 
 aliases: 
 description: 
@@ -9,6 +10,8 @@ draft: true
 publish: true
 ---
 
+
+![[<% tp.file.title %>.svg]]
 
 # Drawing
 ```json
