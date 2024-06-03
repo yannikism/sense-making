@@ -10,7 +10,7 @@ publish: true
 Entry points > Representations > Knowledge
 # Folder Hierarchy
 
-### Top Level Notes
+## Top Level Notes
 =="Why  you say it"==
 
 > [!EXAMPLE] Examples
@@ -19,7 +19,7 @@ Entry points > Representations > Knowledge
 > - motivation, relevance, purpose
 > - usecases
 
-### Middle Level Notes
+## Middle Level Notes
 =="What you say"==
 
 Explain the information. Selective, subjective, contextual.
@@ -39,7 +39,7 @@ Explain the information. Selective, subjective, contextual.
 > - calendar : events, time logic
 
 
-### Bottom Level Notes
+## Bottom Level Notes
 =="What you mean"==
 
 Notes without further explaination needed. Unconditionally true. Objective, raw information.
@@ -62,8 +62,11 @@ top-down wiki links following the "to understand file_title, you must understand
 # Tags
 
 #topic
+
 #topic/mechanical-engineering
+
 #topic/politics
 
 #type 
+
 #type/event

@@ -12,3 +12,11 @@ publish: true
 
 > [!QUESTION] Question
 > Was können wir wissen?
+
+
+
+### Antwort
+
+- Alles basierend auf _Erfahrungen_
+- Wenn keine Erfahrungen kannst du nichts wissen
+- Sonst nur Nachvollziehen, aber nicht Verstehen

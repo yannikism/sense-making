@@ -1,0 +1,3 @@
+- Informationen betreffen mich vllt gar nicht
+	- -> habe gar nicht die möglichkeit, den sachverhalt zu verstehen
+		- "habe gar kein recht auf meinung"

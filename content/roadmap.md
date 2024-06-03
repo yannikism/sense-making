@@ -8,6 +8,7 @@ draft: false
 publish: true
 ---
 
+- [ ] change highlight color
 - [ ] make aliases visible in frontend
 - [ ] dataview fields possible? like this [extends:: [[facts]]]
 - [ ] flatten folder hierarchy to 2 levels and make the rest #tags
@@ -28,6 +29,7 @@ publish: true
 
 - [ ] add interaction
     - [ ] add upload file button
+	    - [ ] add to UI
     - [ ] add comment function
         - send me an email
         - add forms
@@ -36,7 +38,7 @@ publish: true
 
 - [ ] hosting download center via sciebo
 
-- [ ] add supercharged links for detecting drafts, unpublished sites in obsidian
+- [x] add supercharged links for detecting drafts, unpublished sites in obsidian
 
 ```HTML
 <a href="mailto:email@example.com?subject=Mail from our Website&body=Some body text here">Send Email</a>

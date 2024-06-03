@@ -1,0 +1,3 @@
+Ich habe gerade tagesschau.de geöffnet und sehe den Artikel "Nawalnys Mutter erhält Zugang zum Leichnam". Wenn ich mich gefragt habe, ob denn jetzt die Mutter von Nawalny den Leichnahm ihres Sohns wieder sehen darf, dann ist der Artikel dazu eine tolle Antwort auf meine Frage. Wenn ich jetzt jedoch wissen will, wer Nawalny überhaupt war, welche Relevanz die Nachricht überhaupt hat und in welchem Kontext die Nachricht steht, finde ich dazu ersteinmal keine Informationen.
+
+solution:: [[Synthese von allen Beiträgen zu einem Artikel]], [[validierung von Argumentationen]], [[Information über Alternativen]]

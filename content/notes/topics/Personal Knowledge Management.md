@@ -1,10 +1,17 @@
 ---
 excalidraw-plugin: parsed
 excalidraw-open-md: true
+title: 
+aliases: 
+description: 
+tags: [excalidraw]
+date: "2024-05-26"
+draft: true
+publish: true
 ---
 
 
-![[<% tp.file.title %>.svg]]
+![[Personal Knowledge Management.svg]]
 
 # Drawing
 ```json

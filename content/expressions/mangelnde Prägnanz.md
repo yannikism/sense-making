@@ -1,0 +1,3 @@
+- viele Worte von "wir wollen was ändern" aber 
+- erst am Ende die Links wo man sehen kann wie das Projekt zurzeit aussieht, nichteinmal ein Link auf die offizielle Website. 
+- Mir fehlt es etwas an Prägnanz. Was nehme ich jetzt aus dem Text mit?

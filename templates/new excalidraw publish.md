@@ -1,6 +1,13 @@
 ---
 excalidraw-plugin: parsed
 excalidraw-open-md: true
+title: 
+aliases: 
+description: 
+tags: [canvas]
+date: "<% tp.date.now("YYYY-MM-DD") %>"
+draft: false
+publish: true
 ---
 
 
