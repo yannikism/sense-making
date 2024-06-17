@@ -202,7 +202,7 @@ what's the use of PKM?
 - see ==productivity as extension of sense making==
 
 #### sense making notes
-![[sense making]]
+![[content/notes/topics/sense making]]
 
 #### resources
 

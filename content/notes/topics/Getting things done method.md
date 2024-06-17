@@ -5,7 +5,7 @@ aliases:
 description: 
 tags: 
 date: 2024-05-25
-draft: true
+draft: false
 publish: true
 ---
 ![Workflow](https://inlooxcdn.azureedge.net/var/corporate_site/storage/images/media/images/blog/gtd-workflow-grafik/2253644-3-eng-GB/gtd-workflow-grafik.png)

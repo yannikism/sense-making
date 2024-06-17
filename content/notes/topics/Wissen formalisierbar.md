@@ -1,3 +1,4 @@
+
 ## Wissen formalisierbar?
 Gibt es grundlegenden Baukasten mit dem 
 jedes Wissen / Information / Zusammenhänge dargestellt werden kann?

@@ -10,3 +10,9 @@ private/
 .replit
 replit.nix
 \--*
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections

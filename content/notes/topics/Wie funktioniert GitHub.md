@@ -1,1 +1,0 @@
-Wie funktioniert GitHub? Kann ich da selber was von den issues coden?

@@ -9,7 +9,7 @@ aliases:
 
 ---
 ### Discussion
-- [x] [[message discord NVDH|message to Nicole]] v.d.H. about privacy concerns
+- [x] [[24-04-18 message discord NVDH|message to Nicole]] v.d.H. about privacy concerns
 
 ### Guidelines
 which personal data do I wanna publish? which not?
